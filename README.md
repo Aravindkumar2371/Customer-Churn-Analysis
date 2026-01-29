@@ -164,7 +164,7 @@ Built an **interactive dashboard** connecting SQL/Python-cleaned data to Power B
 
 ## 👨‍💻 Author
 
-**Hari Prasad Ram**
+**Aravind kumar**
 📍 Data Analyst | Power BI | SQL | Python | Excel
-🔗 [LinkedIn](https://www.linkedin.com/in/hariprasad-ram-933152358/)
-🖥️ [GitHub](https://github.com/HariPrasad-Ram)
+🔗 [LinkedIn]
+🖥️ [GitHub](https://github.com/Aravindkumar2371)
